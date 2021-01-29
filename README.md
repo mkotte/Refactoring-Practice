@@ -70,6 +70,6 @@ While refactoring the code with best practice in mind I:
 
 ## Links
 
-Deployed Application(GitHub Pages): https://github.com/mkotte/homework01
+Deployed Application(GitHub Pages): https://mkotte.github.io/homework01/
 
-GitHub Repository: https://mkotte.github.io/homework01/
+GitHub Repository: https://github.com/mkotte/homework01
