@@ -72,4 +72,4 @@ While refactoring the code with best practice in mind I:
 
 Deployed Application(GitHub Pages): 
 
-GitHub Repository:
+GitHub Repository: https://mkotte.github.io/homework01/
