@@ -1,4 +1,4 @@
-# 01 HTML CSS Git: Code Refactor - Homework Assignment
+# Code Refactor
 
 ## My Task
 
